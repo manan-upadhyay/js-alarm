@@ -16,4 +16,6 @@ This is a terminal-based alarm clock application as per the intstructions mentio
 
 ### 1. Run the project
 
+```
 node alarm.js
+```
